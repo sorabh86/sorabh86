@@ -55,8 +55,11 @@ Here are a few projects I’m proud of:
   <tr>
     <td>
       <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+      
       <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+      
       <img src="https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=white" />
+      
       <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
     </td>
     <td>
