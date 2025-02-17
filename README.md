@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://sorabh86.github.io/favicon-16.png" height="50">
+  <img src="https://sorabh86.github.io/logo-128x31.png" height="50">
 </p>
 
 # Hi, I'm Sorabh (SOS) 👋
