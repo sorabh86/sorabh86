@@ -24,7 +24,7 @@ I design and develop innovative solutions in JavaScript, Java, PHP, and more. My
 
 ## Featured Projects
 
-Here are a few projects I’m proud of:
+Here are some projects I didn’t break (at least, not beyond repair), and somehow survived the process without calling tech support for help! A few projects I managed to create before my computer decided to take a nap:
 
 - [**ng-seed-webstore**](https://github.com/sorabh86/ng-seed-webstore) - A robust Angular seed project for building scalable webstores.
 - [**sails-userauth**](https://github.com/sorabh86/sails-userauth) - A user authentication module built on Sails.js.
@@ -36,9 +36,16 @@ Here are a few projects I’m proud of:
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sorabh86&show_icons=true&theme=default" alt="Sorabh86's GitHub Stats" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=sorabh86&show_icons=true&theme=default" alt="Sorabh86's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sorabh86&layout=pie&theme=default" alt="Sorabh86's Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
