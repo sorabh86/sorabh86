@@ -5,7 +5,7 @@
 
 # Hi, I'm Sorabh (SOS) 👋
 
-I'm a **Software Engineer** from NOIDA, IN with a passion for crafting elegant and efficient code. Welcome to my GitHub profile – a blend of my open-source projects and personal portfolio.
+I'm a **Software Engineer** from NOIDA, IN with a passion for crafting elegant and efficient code. Welcome to my GitHub profile. A blend of my open-source projects and personal portfolio.
 
 [![Website](https://img.shields.io/badge/Visit-My%20Website-blue?style=for-the-badge&logo=firefox)](http://sorabh86.github.io)
 
@@ -13,7 +13,7 @@ I'm a **Software Engineer** from NOIDA, IN with a passion for crafting elegant a
 
 ## About Me
 
-I design and develop innovative solutions in JavaScript, Java, PHP, and more. My work spans across various frameworks and platforms – from dynamic web applications to scalable enterprise solutions.
+I design and develop innovative solutions in JavaScript, Java, PHP, and more. My work spans across various frameworks and platforms from dynamic web applications to scalable enterprise solutions.
 
 - 🔭 I’m currently working on improving open-source projects and building a next-generation web application.
 - 🌱 I’m continuously learning new technologies and best practices.
