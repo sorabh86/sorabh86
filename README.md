@@ -18,7 +18,7 @@ I design and develop innovative solutions in JavaScript, Java, PHP, and more. My
 - 🔭 I’m currently working on improving open-source projects and building a next-generation web application.
 - 🌱 I’m continuously learning new technologies and best practices.
 - 💬 Ask me about **Angular, Node.js, Spring Boot, or WordPress themes.**
-- 📫 How to reach me: [sorabh86@gmail.com](mailto:sorabh86@gmail.com)
+- 📫 How to reach me: [ssorabh.ssharma@hotmail.com](mailto:ssorabh.ssharma@hotmail.com)
 
 ---
 
@@ -139,7 +139,7 @@ Here are some projects I didn’t break (at least, not beyond repair), and someh
 ## Connect with Me
 
 - **Website:** [sorabh86.github.io](http://sorabh86.github.io)
-- **Email:** [sorabh86@hotmail.com](mailto:ssorabh.ssharma@hotmail.com)
+- **Email:** [ssorabh.ssharma@hotmail.com](mailto:ssorabh.ssharma@hotmail.com)
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/sorabh86/)
 
 ---
